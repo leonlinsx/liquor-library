@@ -26,8 +26,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Curated cocktails and company</strong><span class="light"> </span>
-  content: ''
+  headline: "<strong>Curated cocktails &amp; company</strong>"
+  content: Expect good drinks and dialogue in a small group setting
   media:
     image: "/uploads/2020/03/14/EL_04263_EL_mod.jpg"
     alt_text: Milo Van - After

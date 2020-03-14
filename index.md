@@ -6,7 +6,7 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: Home
+  - link: ''
     link_text: About
   - link: Gallery
     link_text: Gallery

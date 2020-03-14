@@ -6,9 +6,9 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: About
+  - link: ''
     link_text: About
-  - link: Gallery
+  - link: https://zavghtbgtxbxcq.instant.forestry.io/Gallery
     link_text: Gallery
   - link: Contact
     link_text: Contact

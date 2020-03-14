@@ -6,7 +6,6 @@ image_1:
 image_2:
   image: "/uploads/2020/03/14/EL_03934-EL_mod.jpg"
   caption: ''
-published: false
 
 ---
 ![](/uploads/2020/03/14/EL_03911-EL_mod.jpg)

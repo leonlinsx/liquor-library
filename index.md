@@ -6,9 +6,9 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: ''
+  - link: "/"
     link_text: About
-  - link: /gallery-md/
+  - link: "/gallery-md/"
     link_text: Gallery
   - link: Contact
     link_text: Contact

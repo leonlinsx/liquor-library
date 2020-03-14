@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: ''
     link_text: About
-  - link: "/gallery-md/"
+  - link: "/master/gallery.md"
     link_text: Gallery
   - link: Contact
     link_text: Contact

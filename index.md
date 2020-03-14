@@ -16,8 +16,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Liquor Library by Leon </strong><span class="light">is an invite-only
-    cocktail club in Midtown East, Manhattan.</span>
+  headline: <strong>Liquor Library </strong><span class="light">is an invite-only
+    cocktail club.</span>
   content: ''
   media:
     image: "/uploads/2020/03/14/EL_04290_EL_mod.jpg"

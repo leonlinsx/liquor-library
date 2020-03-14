@@ -4,3 +4,7 @@ main:
   url: "/"
   weight: 1
   title: Home
+- identifier: gallery
+  url: "/gallery/"
+  weight: 1
+  title: Gallery

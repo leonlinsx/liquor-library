@@ -5,6 +5,6 @@ main:
   weight: 1
   title: Home
 - identifier: gallery
-  url: "/gallery/"
+  url: "/gallery.md"
   weight: 1
   title: Gallery

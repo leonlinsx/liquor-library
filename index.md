@@ -8,9 +8,9 @@ page_sections:
   navigation:
   - link: "/"
     link_text: About
-  - link: "/gallery-md/"
+  - link: "#gallery"
     link_text: Gallery
-  - link: Contact
+  - link: "#contact"
     link_text: Contact
   logo: ''
 - template: content-feature

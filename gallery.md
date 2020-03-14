@@ -21,5 +21,9 @@ page_sections:
   image_2:
     image: "/uploads/2020/03/14/EL_03934-EL_mod.jpg"
     caption: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/03/14/EL_03965_EL_mod.jpg"
+  caption: ''
 
 ---

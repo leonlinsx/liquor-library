@@ -12,7 +12,7 @@ page_sections:
     link_text: Gallery
   - link: Contact
     link_text: Contact
-  logo: "/uploads/2020/03/14/Liquor banner 1.001.jpeg"
+  logo: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left

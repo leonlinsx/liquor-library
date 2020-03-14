@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: About
-  - link: "#gallery"
+  - link: Gallery
     link_text: Gallery
   - link: "#contact"
     link_text: Contact

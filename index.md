@@ -17,8 +17,9 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: <strong>Liquor Library </strong><span class="light">is an invite-only
-    cocktail club.</span>
-  content: ''
+    cocktail club</span>
+  content: Located in Midtown East, Manhattan, the Library holds regular liquor and
+    cocktail tastings for a private audience
   media:
     image: "/uploads/2020/03/14/EL_04290_EL_mod.jpg"
     alt_text: Milo Van - Before

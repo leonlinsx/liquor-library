@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: ''
     link_text: About
-  - link: https://zavghtbgtxbxcq.instant.forestry.io/Gallery
+  - link: "/Gallery"
     link_text: Gallery
   - link: Contact
     link_text: Contact
